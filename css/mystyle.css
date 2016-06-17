@@ -1,0 +1,14 @@
+body {
+	background-color: #ffffe6;
+	padding-top: 15px;
+}
+
+
+.bgimage {
+	background-image: url('https://a4-images.myspacecdn.com/images03/1/d4afa8d6b9c7455c908672719ad7369f/300x300.jpg');
+	background-position: center center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 200px;
+	color: #fff;
+}
